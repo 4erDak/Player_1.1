@@ -194,7 +194,7 @@ namespace A_Player
 
         private void Form1_MouseUp(object sender, MouseEventArgs e)
         {
-            mousePressed = true;
+            mousePressed = false;
            
         }
 
@@ -205,7 +205,7 @@ namespace A_Player
 
         private void toolStripTextBox4_Click(object sender, EventArgs e)
         {
-            Application.Ezit();
+            Application.Exit();
         }
     }
 }
