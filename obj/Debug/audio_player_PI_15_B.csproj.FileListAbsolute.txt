@@ -1,0 +1,9 @@
+c:\users\krend\documents\visual studio 2015\Projects\audio_player_PI_15_B\audio_player_PI_15_B\bin\Debug\audio_player_PI_15_B.exe.config
+c:\users\krend\documents\visual studio 2015\Projects\audio_player_PI_15_B\audio_player_PI_15_B\obj\Debug\A_Player.Form1.resources
+c:\users\krend\documents\visual studio 2015\Projects\audio_player_PI_15_B\audio_player_PI_15_B\obj\Debug\audio_player_PI_15_B.Properties.Resources.resources
+c:\users\krend\documents\visual studio 2015\Projects\audio_player_PI_15_B\audio_player_PI_15_B\obj\Debug\audio_player_PI_15_B.csproj.GenerateResource.Cache
+c:\users\krend\documents\visual studio 2015\Projects\audio_player_PI_15_B\audio_player_PI_15_B\bin\Debug\audio_player_PI_15_B.exe
+c:\users\krend\documents\visual studio 2015\Projects\audio_player_PI_15_B\audio_player_PI_15_B\bin\Debug\audio_player_PI_15_B.pdb
+c:\users\krend\documents\visual studio 2015\Projects\audio_player_PI_15_B\audio_player_PI_15_B\bin\Debug\taglib-sharp.dll
+c:\users\krend\documents\visual studio 2015\Projects\audio_player_PI_15_B\audio_player_PI_15_B\obj\Debug\audio_player_PI_15_B.exe
+c:\users\krend\documents\visual studio 2015\Projects\audio_player_PI_15_B\audio_player_PI_15_B\obj\Debug\audio_player_PI_15_B.pdb
